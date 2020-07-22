@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi I am Vedaant 👋
+#### I am currently working as a research intern at the University of California, Los Angeles
 
-<!--
-**Vedaant-Rajoo/Vedaant-Rajoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on NDN Architechture Development (ndn-cxx)
+- 🌱 I’m currently learning Java and R
+- 👯 I’m looking to collaborate on decentralised IOT solutions
+- 💬 Ask me about blockchain and automated unit testing systems
+- 📫 How to reach me: [Portfolio](https://vedaantrajoo.in) [Email](mailto:vedaant12345@gmail.com)
+
+
+<img src="https://rb.gy/ipx2cb">
