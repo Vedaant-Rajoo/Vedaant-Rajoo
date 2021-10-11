@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on advanced distributed systems and their fault tolerant methods
-- @icon-coffee I also work at Starbucks as a Certified Barista and handle the robot delivery system
+- @icn-coffee I also work at Starbucks as a Certified Barista and handle the robot delivery system
 - 🌱 I’m currently learning Java and Sketch
 - 👯 I’m looking to collaborate on decentralised IOT solutions
 - 💬 Ask me about blockchain and automated unit testing systems
