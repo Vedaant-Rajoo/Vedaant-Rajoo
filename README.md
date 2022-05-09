@@ -5,7 +5,7 @@
 
 - I'm working as a Research Assistant for the Electrical Department with focus on dynamic fuzzing and language servers.
 - 🔭 I’m currently researching on memory safe C and ways to convert legacy C to safeC.
-- 🌱 I’m currently learning Swift and Java.
+- 🌱 I’m currently learning Type Inference in C/C++.
 - 👯 I’m looking to collaborate on decentralised IOT solutions and distributed fault tolerant systems.
 - 💬 Ask me about blockchain and automated unit testing systems.
 - Fun Fact - I love to play the guitar and am passionate about video editing.
